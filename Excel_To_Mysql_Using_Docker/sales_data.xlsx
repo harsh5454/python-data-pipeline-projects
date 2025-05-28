@@ -1,0 +1,6 @@
+| OrderID | Customer | Product  | Quantity | Price |
+| ------- | -------- | -------- | -------- | ----- |
+| 1001    | Alice    | Keyboard | 2        | 750   |
+| 1002    | Bob      | Mouse    | 1        | 400   |
+| 1003    | Charlie  | Monitor  | 1        | 8000  |
+| 1004    | Alice    | Mouse    | 3        | 1200  |
